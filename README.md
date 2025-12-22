@@ -60,6 +60,36 @@
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="SQL Server" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB" width="40" height="40"/></a>
 
+  <!-- Big Data & Databases -->
+<a href="https://spark.apache.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="Apache Spark" width="40" height="40"/>
+</a>
+
+<a href="https://hadoop.apache.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="Apache Hadoop" width="40" height="40"/>
+</a>
+
+<a href="https://hive.apache.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="Apache Hive" width="40" height="40"/>
+</a>
+
+<a href="https://www.talend.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" title="Talend" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
+</a>
+
+<a href="https://nifi.apache.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" title="Apache NiFi" width="40" height="40"/>
+</a>
+
+<a href="https://kafka.apache.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Apache Kafka" width="40" height="40"/>
+</a>
+
+
   <!-- Others -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/></a>
