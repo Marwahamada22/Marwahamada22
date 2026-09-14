@@ -1,110 +1,410 @@
-<!-- Animated Greeting Section -->
+<!-- ======================= HEADER ======================= -->
+
+<h1 align="center">
+  Hi 👋, I'm Marwa Hamada
+</h1>
+
+<h3 align="center">
+  Data Engineer | Data Analyst
+</h3>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=800&pause=1000&color=926FF7&center=true&repeat=false&random=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Marwa+Hamada" alt="Typing SVG" />
-  </a>
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=926FF7&center=true&random=false&width=435&lines=Data+Engineer+and+Data+Analyst" alt="Typing SVG" />
-  </a>
+  <img
+    src="https://github.com/MarwanAhmed20/MarwanAhmed20/assets/47067493/d14795b1-772d-4b9c-a4da-dc411456ede8"
+    alt="Coding"
+    width="400"
+  />
 </p>
 
-<!-- Right-side Coding Animation -->
-<img align="right" alt="Coding" width="400" src="https://github.com/MarwanAhmed20/MarwanAhmed20/assets/47067493/d14795b1-772d-4b9c-a4da-dc411456ede8">
+---
 
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=marwahamada&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<!-- ======================= ABOUT ME ======================= -->
 
-<!-- Contact Info -->
-### 📫 How to reach me:
-**marwahamada838@gmail.com**
+### 👩‍💻 About Me
+
+- 💼 Data Engineer with experience in Data Engineering and Data Analytics
+- 🔄 Interested in Data Pipelines, ETL, Big Data, and Data Warehousing
+- ⚡ Working with Apache Spark, Kafka, NiFi, Airflow, and SQL
+- 🗄️ Experience with relational and NoSQL databases
+- 📊 Interested in Data Quality and Data Analytics
+- 🌱 Continuously learning and improving my Data Engineering skills
+
+---
+
+<!-- ======================= CONTACT ======================= -->
+
+### 📫 How to reach me
+
+**Email:**  
+📧 marwahamada838@gmail.com
+
 <a href="mailto:marwahamada838@gmail.com">
-  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="27" height="27"/>
+  <img
+    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
-<!-- Social Links -->
-### 🤝 Connect with me:
+---
+
+<!-- ======================= SOCIAL ======================= -->
+
+### 🤝 Connect with me
+
+<a href="https://www.linkedin.com/in/marwahamada/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://www.kaggle.com/marwahamada" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
+    alt="Kaggle"
+  />
+</a>
+
+---
+
+<!-- ======================= LANGUAGES ======================= -->
+
+### 💻 Programming Languages
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/marwahamada/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/marwahamada" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
+
+<img
+  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+  alt="Python"
+/>
+
+<img
+  src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"
+  alt="SQL"
+/>
+
+<img
+  src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
+  alt="R"
+/>
+
 </p>
 
 ---
 
-### 🧰 Languages and Tools
+<!-- ======================= DATA ENGINEERING ======================= -->
+
+### ⚙️ Data Engineering
 
 <p align="left">
-  <!-- Programming -->
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/></a>
-  <a href="https://www.r-project.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" title="R" width="40" height="40"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter Notebook" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" width="40" height="40"/></a>
 
-  <!-- BI & Analysis -->
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" title="Tableau" width="40" height="40"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" title="Power BI" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" title="Excel" width="40" height="40"/></a>
+<img
+  src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"
+  alt="Apache Spark"
+/>
 
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="SQL Server" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB" width="40" height="40"/></a>
+<img
+  src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"
+  alt="Apache Kafka"
+/>
 
-  <!-- Big Data & Databases -->
-<a href="https://spark.apache.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="Apache Spark" width="40" height="40"/>
-</a>
+<img
+  src="https://img.shields.io/badge/Apache%20NiFi-728E9B?style=for-the-badge&logo=apachenifi&logoColor=white"
+  alt="Apache NiFi"
+/>
 
-<a href="https://hadoop.apache.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="Apache Hadoop" width="40" height="40"/>
-</a>
+<img
+  src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"
+  alt="Apache Airflow"
+/>
 
-<a href="https://hive.apache.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="Apache Hive" width="40" height="40"/>
-</a>
+<img
+  src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"
+  alt="Apache Hadoop"
+/>
 
-<a href="https://www.talend.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" title="Talend" width="40" height="40"/>
-</a>
+<img
+  src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"
+  alt="Apache Hive"
+/>
 
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
-</a>
+<img
+  src="https://img.shields.io/badge/Apache%20Iceberg-3B3B98?style=for-the-badge"
+  alt="Apache Iceberg"
+/>
 
-<a href="https://nifi.apache.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" title="Apache NiFi" width="40" height="40"/>
-</a>
+<img
+  src="https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge"
+  alt="Trino"
+/>
 
-<a href="https://kafka.apache.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Apache Kafka" width="40" height="40"/>
-</a>
-
-
-  <!-- Others -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/></a>
-
-  <!-- Custom Labels -->
-  <img src="https://img.shields.io/badge/ETL-Tool-blue?style=for-the-badge&logo=data&logoColor=white" title="ETL Process" height="28"/>
-  <img src="https://img.shields.io/badge/Data%20Warehouse-Architecture-orange?style=for-the-badge&logo=databricks&logoColor=white" title="Data Warehouse" height="28"/>
 </p>
 
 ---
+
+<!-- ======================= ETL ======================= -->
+
+### 🔄 ETL & Data Integration
+
+<p align="left">
+
+<img
+  src="https://img.shields.io/badge/ETL-Process-0E75B6?style=for-the-badge"
+  alt="ETL"
+/>
+
+<img
+  src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white"
+  alt="Talend"
+/>
+
+<img
+  src="https://img.shields.io/badge/Apache%20NiFi-728E9B?style=for-the-badge&logo=apachenifi&logoColor=white"
+  alt="Apache NiFi"
+/>
+
+<img
+  src="https://img.shields.io/badge/Data%20Pipelines-4B0082?style=for-the-badge"
+  alt="Data Pipelines"
+/>
+
+</p>
+
+---
+
+<!-- ======================= DATABASES ======================= -->
+
+### 🗄️ Databases
+
+<p align="left">
+
+<img
+  src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
+  alt="PostgreSQL"
+/>
+
+<img
+  src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+  alt="MySQL"
+/>
+
+<img
+  src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
+  alt="SQL Server"
+/>
+
+<img
+  src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
+  alt="MongoDB"
+/>
+
+</p>
+
+---
+
+<!-- ======================= DATA PROCESSING ======================= -->
+
+### 📊 Data Processing & Analysis
+
+<p align="left">
+
+<img
+  src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+  alt="Pandas"
+/>
+
+<img
+  src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
+  alt="NumPy"
+/>
+
+<img
+  src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"
+  alt="Jupyter"
+/>
+
+<img
+  src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
+  alt="Scikit-Learn"
+/>
+
+<img
+  src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"
+  alt="Matplotlib"
+/>
+
+</p>
+
+---
+
+<!-- ======================= BI ======================= -->
+
+### 📈 BI & Data Visualization
+
+<p align="left">
+
+<img
+  src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+  alt="Power BI"
+/>
+
+<img
+  src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
+  alt="Tableau"
+/>
+
+<img
+  src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
+  alt="Excel"
+/>
+
+</p>
+
+---
+
+<!-- ======================= DATA LAKEHOUSE ======================= -->
+
+### 🏗️ Data Lakehouse & Data Warehouse
+
+<p align="left">
+
+<img
+  src="https://img.shields.io/badge/Apache%20Iceberg-3B3B98?style=for-the-badge"
+  alt="Apache Iceberg"
+/>
+
+<img
+  src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge"
+  alt="Parquet"
+/>
+
+<img
+  src="https://img.shields.io/badge/Data%20Lakehouse-Architecture-FF8C00?style=for-the-badge"
+  alt="Data Lakehouse"
+/>
+
+<img
+  src="https://img.shields.io/badge/Data%20Warehouse-Architecture-FF8C00?style=for-the-badge"
+  alt="Data Warehouse"
+/>
+
+</p>
+
+---
+
+<!-- ======================= CLOUD / STORAGE ======================= -->
+
+### ☁️ Storage & Data Platforms
+
+<p align="left">
+
+<img
+  src="https://img.shields.io/badge/MinIO-C72E29?style=for-the-badge&logo=minio&logoColor=white"
+  alt="MinIO"
+/>
+
+<img
+  src="https://img.shields.io/badge/Object%20Storage-4B0082?style=for-the-badge"
+  alt="Object Storage"
+/>
+
+</p>
+
+---
+
+<!-- ======================= VERSION CONTROL ======================= -->
+
+### 🔧 Tools & Version Control
+
+<p align="left">
+
+<img
+  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+  alt="Git"
+/>
+
+<img
+  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
+
+<img
+  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+  alt="Linux"
+/>
+
+</p>
+
+---
+
+<!-- ======================= DATA QUALITY ======================= -->
+
+### ✅ Data Quality
+
+<p align="left">
+
+<img
+  src="https://img.shields.io/badge/Data%20Quality-Validation-0E75B6?style=for-the-badge"
+  alt="Data Quality"
+/>
+
+<img
+  src="https://img.shields.io/badge/Data%20Validation-Checks-4B0082?style=for-the-badge"
+  alt="Data Validation"
+/>
+
+<img
+  src="https://img.shields.io/badge/Data%20Profiling-Analysis-FF8C00?style=for-the-badge"
+  alt="Data Profiling"
+/>
+
+</p>
+
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=marwahamada&show_icons=true&theme=dark&hide_border=true&title_color=926FF7"
+  alt="Marwa's GitHub Stats"
+/>
+
+</p>
+
+---
+
+<!-- ======================= MOST USED LANGUAGES ======================= -->
 
 ### 📊 Most Used Languages
 
-<!-- Most Used Languages Section (Customized) -->
-<h3 align="left">Most Used Languages:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwahamada&langs_count=5&theme=dark&hide=html&layout=compact&custom_title=Most%20Used%20Languages%3A%20Python%2C%20Jupyter%20Notebook%2C%20SQL%2C%20R%2C%20CSS&card_width=800&title_color=926FF7&text_color=ffffff&bg_color=000000" alt="Most Used Languages: Python, Jupyter Notebook, SQL, R, CSS" />
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwahamada&langs_count=8&theme=dark&hide_border=true&layout=compact&title_color=926FF7"
+  alt="Most Used Languages"
+/>
+
+</p>
+
+---
+
+<!-- ======================= PROFILE VIEWS ======================= -->
+
+<p align="center">
+
+<img
+  src="https://komarev.com/ghpvc/?username=marwahamada&label=Profile%20Views&color=0e75b6&style=flat"
+  alt="Profile Views"
+/>
+
+</p>
+
+---
+
+<p align="center">
+  ⭐️ From <b>Marwa Hamada</b>
 </p>
