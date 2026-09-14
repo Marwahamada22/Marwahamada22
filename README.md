@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <h1 align="center">
-  Hi 👋, I'm Marwa Hamada
+  Hi 👋, I'm Marwa Hamada Mansour
 </h1>
 
 <h3 align="center">
@@ -71,24 +71,14 @@
 
 ### 💻 Programming Languages
 
-<p align="left">
-
-<img
-  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-  alt="Python"
-/>
-
-<img
-  src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"
-  alt="SQL"
-/>
-
-<img
-  src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
-  alt="R"
-/>
-
-</p>
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=python" width="40"/> | **Python** |
+| <img src="https://skillicons.dev/icons?i=r" width="40"/> | **R** |
+| <img src="https://skillicons.dev/icons?i=scala" width="40"/> | **Scala** |
+| <img src="https://skillicons.dev/icons?i=java" width="40"/> | **Java** |
+| <img src="https://skillicons.dev/icons?i=bash" width="40"/> | **Bash / Shell** |
+| <img src="https://skillicons.dev/icons?i=postgresql" width="40"/> | **SQL** |
 
 ---
 
@@ -96,49 +86,16 @@
 
 ### ⚙️ Data Engineering
 
-<p align="left">
-
-<img
-  src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"
-  alt="Apache Spark"
-/>
-
-<img
-  src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"
-  alt="Apache Kafka"
-/>
-
-<img
-  src="https://img.shields.io/badge/Apache%20NiFi-728E9B?style=for-the-badge&logo=apachenifi&logoColor=white"
-  alt="Apache NiFi"
-/>
-
-<img
-  src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"
-  alt="Apache Airflow"
-/>
-
-<img
-  src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"
-  alt="Apache Hadoop"
-/>
-
-<img
-  src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"
-  alt="Apache Hive"
-/>
-
-<img
-  src="https://img.shields.io/badge/Apache%20Iceberg-3B3B98?style=for-the-badge"
-  alt="Apache Iceberg"
-/>
-
-<img
-  src="https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge"
-  alt="Trino"
-/>
-
-</p>
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=spark" width="40"/> | **Apache Spark** |
+| <img src="https://skillicons.dev/icons?i=kafka" width="40"/> | **Apache Kafka** |
+| <img src="https://skillicons.dev/icons?i=airflow" width="40"/> | **Apache Airflow** |
+| <img src="https://skillicons.dev/icons?i=nifi" width="40"/> | **Apache NiFi** |
+| <img src="https://skillicons.dev/icons?i=hadoop" width="40"/> | **Apache Hadoop** |
+| <img src="https://skillicons.dev/icons?i=hive" width="40"/> | **Apache Hive** |
+| <img src="https://skillicons.dev/icons?i=trino" width="40"/> | **Trino** |
+| <img src="https://skillicons.dev/icons?i=iceberg" width="40"/> | **Apache Iceberg** |
 
 ---
 
@@ -146,29 +103,13 @@
 
 ### 🔄 ETL & Data Integration
 
-<p align="left">
-
-<img
-  src="https://img.shields.io/badge/ETL-Process-0E75B6?style=for-the-badge"
-  alt="ETL"
-/>
-
-<img
-  src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white"
-  alt="Talend"
-/>
-
-<img
-  src="https://img.shields.io/badge/Apache%20NiFi-728E9B?style=for-the-badge&logo=apachenifi&logoColor=white"
-  alt="Apache NiFi"
-/>
-
-<img
-  src="https://img.shields.io/badge/Data%20Pipelines-4B0082?style=for-the-badge"
-  alt="Data Pipelines"
-/>
-
-</p>
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=talend" width="40"/> | **Talend** |
+| <img src="https://skillicons.dev/icons?i=nifi" width="40"/> | **Apache NiFi** |
+| <img src="https://skillicons.dev/icons?i=airflow" width="40"/> | **Apache Airflow** |
+| <img src="https://skillicons.dev/icons?i=python" width="40"/> | **Python ETL** |
+| <img src="https://skillicons.dev/icons?i=spark" width="40"/> | **Spark ETL** |
 
 ---
 
@@ -176,29 +117,12 @@
 
 ### 🗄️ Databases
 
-<p align="left">
-
-<img
-  src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
-  alt="PostgreSQL"
-/>
-
-<img
-  src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-  alt="MySQL"
-/>
-
-<img
-  src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
-  alt="SQL Server"
-/>
-
-<img
-  src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
-  alt="MongoDB"
-/>
-
-</p>
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=postgresql" width="40"/> | **PostgreSQL** |
+| <img src="https://skillicons.dev/icons?i=mysql" width="40"/> | **MySQL** |
+| <img src="https://skillicons.dev/icons?i=sqlserver" width="40"/> | **Microsoft SQL Server** |
+| <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> | **MongoDB** |
 
 ---
 
@@ -206,34 +130,13 @@
 
 ### 📊 Data Processing & Analysis
 
-<p align="left">
-
-<img
-  src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
-  alt="Pandas"
-/>
-
-<img
-  src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
-  alt="NumPy"
-/>
-
-<img
-  src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"
-  alt="Jupyter"
-/>
-
-<img
-  src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
-  alt="Scikit-Learn"
-/>
-
-<img
-  src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"
-  alt="Matplotlib"
-/>
-
-</p>
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=pandas" width="40"/> | **Pandas** |
+| <img src="https://skillicons.dev/icons?i=numpy" width="40"/> | **NumPy** |
+| <img src="https://skillicons.dev/icons?i=jupyter" width="40"/> | **Jupyter Notebook** |
+| <img src="https://skillicons.dev/icons?i=sklearn" width="40"/> | **Scikit-Learn** |
+| <img src="https://skillicons.dev/icons?i=matplotlib" width="40"/> | **Matplotlib** |
 
 ---
 
@@ -241,24 +144,11 @@
 
 ### 📈 BI & Data Visualization
 
-<p align="left">
-
-<img
-  src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
-  alt="Power BI"
-/>
-
-<img
-  src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
-  alt="Tableau"
-/>
-
-<img
-  src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
-  alt="Excel"
-/>
-
-</p>
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=powerbi" width="40"/> | **Power BI** |
+| <img src="https://skillicons.dev/icons?i=tableau" width="40"/> | **Tableau** |
+| <img src="https://skillicons.dev/icons?i=excel" width="40"/> | **Microsoft Excel** |
 
 ---
 
@@ -266,49 +156,13 @@
 
 ### 🏗️ Data Lakehouse & Data Warehouse
 
-<p align="left">
-
-<img
-  src="https://img.shields.io/badge/Apache%20Iceberg-3B3B98?style=for-the-badge"
-  alt="Apache Iceberg"
-/>
-
-<img
-  src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge"
-  alt="Parquet"
-/>
-
-<img
-  src="https://img.shields.io/badge/Data%20Lakehouse-Architecture-FF8C00?style=for-the-badge"
-  alt="Data Lakehouse"
-/>
-
-<img
-  src="https://img.shields.io/badge/Data%20Warehouse-Architecture-FF8C00?style=for-the-badge"
-  alt="Data Warehouse"
-/>
-
-</p>
-
----
-
-<!-- ======================= CLOUD / STORAGE ======================= -->
-
-### ☁️ Storage & Data Platforms
-
-<p align="left">
-
-<img
-  src="https://img.shields.io/badge/MinIO-C72E29?style=for-the-badge&logo=minio&logoColor=white"
-  alt="MinIO"
-/>
-
-<img
-  src="https://img.shields.io/badge/Object%20Storage-4B0082?style=for-the-badge"
-  alt="Object Storage"
-/>
-
-</p>
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=iceberg" width="40"/> | **Apache Iceberg** |
+| <img src="https://skillicons.dev/icons?i=spark" width="40"/> | **Apache Spark** |
+| <img src="https://skillicons.dev/icons?i=trino" width="40"/> | **Trino** |
+| <img src="https://skillicons.dev/icons?i=minio" width="40"/> | **MinIO / Object Storage** |
+| <img src="https://skillicons.dev/icons?i=parquet" width="40"/> | **Apache Parquet** |
 
 ---
 
@@ -316,24 +170,13 @@
 
 ### 🔧 Tools & Version Control
 
-<p align="left">
-
-<img
-  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-  alt="Git"
-/>
-
-<img
-  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
-
-<img
-  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-  alt="Linux"
-/>
-
-</p>
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=git" width="40"/> | **Git** |
+| <img src="https://skillicons.dev/icons?i=github" width="40"/> | **GitHub** |
+| <img src="https://skillicons.dev/icons?i=linux" width="40"/> | **Linux** |
+| <img src="https://skillicons.dev/icons?i=docker" width="40"/> | **Docker** |
+| <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | **Visual Studio Code** |
 
 ---
 
@@ -341,24 +184,12 @@
 
 ### ✅ Data Quality
 
-<p align="left">
-
-<img
-  src="https://img.shields.io/badge/Data%20Quality-Validation-0E75B6?style=for-the-badge"
-  alt="Data Quality"
-/>
-
-<img
-  src="https://img.shields.io/badge/Data%20Validation-Checks-4B0082?style=for-the-badge"
-  alt="Data Validation"
-/>
-
-<img
-  src="https://img.shields.io/badge/Data%20Profiling-Analysis-FF8C00?style=for-the-badge"
-  alt="Data Profiling"
-/>
-
-</p>
+| | Technology / Area |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=python" width="40"/> | **Data Validation** |
+| <img src="https://skillicons.dev/icons?i=postgresql" width="40"/> | **SQL Data Quality Checks** |
+| <img src="https://skillicons.dev/icons?i=spark" width="40"/> | **Data Profiling** |
+| <img src="https://skillicons.dev/icons?i=python" width="40"/> | **Data Cleansing** |
 
 ---
 
